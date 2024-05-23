@@ -13,3 +13,10 @@ An `onlinecourse` app has already been provided in this repo upon which you will
 For your reference, we have prepared the ER diagram design for the new assesement feature.
 
 ![Onlinecourse ER Diagram](https://github.com/ibm-developer-skills-network/final-cloud-app-with-database/blob/master/static/media/course_images/onlinecourse_app_er.png)
+**Home Screen**
+![f1](https://github.com/rtygya/final-cloud-app-with-database/assets/103693384/fde9ed8c-31e1-4220-8f38-719db1fe38ba)
+**Exam Screen**
+![f2](https://github.com/rtygya/final-cloud-app-with-database/assets/103693384/ae4e67f2-8bd1-4247-8ddf-a50000300a57)
+**Exam Submission Screen**
+![07-final](https://github.com/rtygya/final-cloud-app-with-database/assets/103693384/b40a5250-17f5-4d41-901b-381ea0dfd810)
+
